@@ -24,3 +24,12 @@ a {
     background: black;
   }
 }
+button{
+  background-color: black;
+  box-shadow: none;
+  color: #eaeaea;
+  border-radius: 25px;
+  padding: 12px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  text-align: center;
+}
